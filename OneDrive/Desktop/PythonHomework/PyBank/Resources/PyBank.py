@@ -50,3 +50,12 @@ print("Average Change : $" + str(average_change))
 print("Greatest Increase in Profits: " + str(max_increase_mon) + ", ($" + str(max_increase) + ")")
 print("Greatest Decrease in Profits: " + str(max_decrease_mon) + ", $" + str(max_decrease) + ")")
 
+#output_file_pybank = open("PyBank_outputs.txt", "w")
+
+#output_file_pybank.write("Financial Analysis")
+#output_file_pybank.write("--------------------")
+#output_file_pybank.write(("Total Months : " + str(months))
+#output_file_pybank.write("Total : $" + str(tot_profit))
+#output_file_pybank.write("Average Change : $" + str(average_change))
+#output_file_pybank.write("Greatest Increase in Profits: " + str(max_increase_mon) + ", ($" + str(max_increase) + ")")
+#output_file_pybank.write("Greatest Decrease in Profits: " + str(max_decrease_mon) + ", $" + str(max_decrease) + ")")
